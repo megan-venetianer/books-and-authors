@@ -4,7 +4,7 @@ class Author {
     this.last = bookAuthor.last;
     this.books = [];
   }
-  write(title, publicationYear) {
+  write() {
 
   }
   instanceOf() {
